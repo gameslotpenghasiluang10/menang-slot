@@ -1,0 +1,18 @@
+{
+  "name": "menang-slot",
+  "main": "./lib/menang-slot",
+  "version": "1.0.0",
+  "description": "Info Paling Gacor Situs Terpercaya Menang Slot Gampang Jackpot",
+  "keywords": ["agen toto play","agentoto slot","situs judi slot online","microgaming","slot pg soft","slot online terbaik","slot habanero","joker gaming","game slot terbaik","slot online gampang menang","bandar slot online"],
+
+  "activationCommands": {
+    "atom-workspace": "menang-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotpenghasiluang10/menang-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

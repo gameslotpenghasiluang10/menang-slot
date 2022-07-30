@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle menang-slot",
+        "command": "menang-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "menang-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "menang-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
